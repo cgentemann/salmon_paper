@@ -1,0 +1,11 @@
+name: salmon-env
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - matplotlib
+  - pandas
+  - xarray
+  - netCDF4
+  - xlrd
+  
